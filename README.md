@@ -4,6 +4,8 @@ Apart from the code, it also contains detailed yet to the point analytics report
 The repository is further divided into several subfolders or subtopics which consists of the relevant
 code, solution and a project report which derives valuable insights and discusses several repurcussions
 of the solution path chosen.
+Here is the link to my e-portfolio provided by great learning and UT Austin: -
+https://eportfolio.mygreatlearning.com/aditya-joshi2
 
 The following subfolders/subtopics are included in the repository.
 
