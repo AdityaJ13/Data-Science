@@ -10,7 +10,7 @@ The following subfolders/subtopics are included in the repository.
 ### Statistical Methods for decision Making
 The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies
 
-## Mcdonald's Data Visualization Competition
+### Mcdonald's Data Visualization Competition
 Every year, for beginners in the field of data science, great learning organizes a visualization competition and when I was pursuing the course it was called as McDonald's competition, as it was based on McDonald's data. Three out of several hundreds of participants are chose to be winners, and I was one of the three winners.
 
 ### Advanced Statistics
