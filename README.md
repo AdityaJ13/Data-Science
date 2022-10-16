@@ -13,7 +13,7 @@ The following subfolders/subtopics are included in the repository.
 The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies
 
 ### Mcdonald's Data Visualization Competition
-Every year, for beginners in the field of data science, great learning organizes a visualization competition and when I was pursuing the course it was called as McDonald's competition, as it was based on McDonald's data. Three out of several hundreds of participants are chose to be winners, and I was one of the three winners.
+Every year, for beginners in the field of data science, great learning organizes a visualization competition and when I was pursuing the course it was called as McDonald's competition, as it was based on McDonald's data. Three out of several hundreds of participants were chosen to be winners, and I was one of the three winners.
 
 ### Advanced Statistics
 The project involved drawing inferences from 2 case studies, namely - Hay Fever Drug Analysis, College Admissions Data. The concepts of Exploratory Data Analysis, Analysis of Variance, and Principal Component Analysis are used to draw inferences from these case studies.
